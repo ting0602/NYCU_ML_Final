@@ -252,7 +252,7 @@ Using this code can achieve accuracy is 0.59097 on private score.
 ## Usage
 ### 1. Clone Repository
 ```
-git clone 
+git clone git@github.com:ting0602/NYCU_ML_Final.git
 ```
 ### 2. Install Packages
 ```
