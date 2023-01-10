@@ -1,7 +1,7 @@
 # NYCU_ML_Final2022
 **NYCU ML Final Project**
 
-Kaggle topic：Tabular Playground Series - Aug 2022
+**Kaggle topic：Tabular Playground Series - Aug 2022**
 * [spec](https://docs.google.com/presentation/d/15d4W_8GFks4Mqmf4kvmTxYC8tJv-KNg6c8rQrlccEWM/edit#slide=id.g61dd2f3d9d_2_83)
 * [kaggle competition link](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview)
 
@@ -9,10 +9,18 @@ Kaggle topic：Tabular Playground Series - Aug 2022
 * [Tabular Playground Series](#tabular-playground-series)
   * [Introduction](#competition-introduction)
   * [Data Description](#data-description)
-  * [Download Files](#files)
+  * [Files](#files)
 * [Code](#code)
+  * [Downloaded Files](#downloaded-files)
+  * [Data Processing](#data-processing)
+  * [Training](#training)
+  * [Inference](#inference)
 * [Usage](#usage)
-  * [Install](#install)
+  * [Clone Repository](#1-clone-repository)
+  * [Install Packages](#2-install-packages)
+  * [Run Code](#3-run-code)
+  * [Result](#4-result)
+* [Reference](#reference)
 
 ## Tabular Playground Series
 ### Competition Introduction
@@ -251,10 +259,17 @@ git clone
 pip install -r requirements.txt
 ```
  
- ### 3. Run Code
- You can choose to run entire code, or run training code and inference separately.
- run entire code - run ```109550119_Final.ipynb```
- run training code and inference separately - run ```109550119_Final_train.ipynb``` first, then use new model to run ```109550119_Final_inference.ipynb```
+### 3. Run Code
+You can choose to run entire code, or run training code and inference separately.
+run entire code - run ```109550119_Final.ipynb```
+run training code and inference separately - run ```109550119_Final_train.ipynb``` first, then use new model to run ```109550119_Final_inference.ipynb```
+
+### 4. Result
+You can check the result in ```submission.csv```.
  
- ### 4. Result
- You can check the result in ```submission.csv```.
+## Reference
+* https://www.kaggle.com/code/takanashihumbert/tps-aug22-9th-solution/notebook?fbclid=IwAR0_uaztxUxw_pHXL74TZVjN-26DG_r5UCSAROUtrjfxGa0iUzjD1ekZE3c
+*	https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/343939
+*	https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/342319
+*	https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/342126
+
