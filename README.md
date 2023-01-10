@@ -272,4 +272,4 @@ You can check the result in ```submission.csv```.
 *	https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/343939
 *	https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/342319
 *	https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/342126
-
+* https://www.kaggle.com/code/mehrankazeminia/tps22aug-logisticr-lgbm-keras
