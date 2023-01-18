@@ -261,7 +261,9 @@ pip install -r requirements.txt
  
 ### 3. Run Code
 You can choose to run entire code, or run training code and inference separately.
+
 run entire code - run ```109550119_Final.ipynb```
+
 run training code and inference separately - run ```109550119_Final_train.ipynb``` first, then use new model to run ```109550119_Final_inference.ipynb```
 
 ### 4. Result
